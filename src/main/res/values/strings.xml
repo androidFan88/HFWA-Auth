@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="auth0_client_id">jEoefvOxwI4xIVHqqcjkWAuzPusZov7n</string>
+    <string name="auth0_domain">https://dev-cggaiy0cpbhhat27.us.auth0.com</string>
+</resources>
